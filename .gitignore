@@ -10,3 +10,4 @@ venv/
 env/
 Lib/
 Scripts/
+barcodes/
