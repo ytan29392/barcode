@@ -1,0 +1,12 @@
+# Ignore Python and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+Lib/
+Scripts/
